@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.4",
+    "mysql2": "^3.11.5",
+    "openai": "^4.75.0",
+    "openai-api": "^1.3.1"
+  }
+}
